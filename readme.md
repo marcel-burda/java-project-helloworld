@@ -27,3 +27,10 @@ and to run the tests run the following:
 ```
 mvn test
 ```
+
+## Run the program
+
+In the target dir you find your executables. Run them with:
+```
+java -jar target/gs-maven-0.1.0.jar
+```
